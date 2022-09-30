@@ -6,7 +6,7 @@
 
 ## Run Project on your device
 
-To run this project you have to install ndoejs and npm.
+To run this project you have to install nodejs and npm.
 
 ```bash
   npm install
@@ -18,8 +18,10 @@ For external dependencies
   npm i --save axios 
 ```
 
+## Run Cypress
 
+To see Cypress Dashboard and e2e testing.
 
-  
-# cy-demo-city-weather-app
-# cy-demo-city-weather-app
+```bash
+  npx cypress open
+```
